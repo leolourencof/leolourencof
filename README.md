@@ -25,9 +25,9 @@
   <summary><h2>📘 Meus principais projetos</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/leanndrocabral/lista-de-contatos"><img width="270" src="https://github-readme-stats.vercel.app/api/pin/?username=leanndrocabral&repo=lista-de-contatos&theme=monokai&hide_border=true"></a>
-    <a href="https://github.com/leanndrocabral/shinmon-bot"><img width="270" src="https://github-readme-stats.vercel.app/api/pin/?username=leanndrocabral&repo=shinmon-bot&theme=monokai&hide_border=true"></a>
-    <a href="https://github.com/leanndrocabral/spotify-in-angular"><img width="270" src="https://github-readme-stats.vercel.app/api/pin/?username=leanndrocabral&repo=spotify-in-angular&theme=monokai&hide_border=true"></a>
+    <a href="https://github.com/leanndrocabral/lista-de-contatos"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=leanndrocabral&repo=lista-de-contatos&theme=monokai&hide_border=true"></a>
+    <a href="https://github.com/leanndrocabral/shinmon-bot"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=leanndrocabral&repo=shinmon-bot&theme=monokai&hide_border=true"></a>
+    <a href="https://github.com/leanndrocabral/spotify-in-angular"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=leanndrocabral&repo=spotify-in-angular&theme=monokai&hide_border=true"></a>
   </p>
 
   <a href="https://github.com/leanndrocabral?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Clique aqui para todos os repositórios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
@@ -102,14 +102,14 @@
 
   <h3>💻 Estatísticas de perfil do GitHub</h3>
 
-  <a href="#"><img alt="leanndrocabral estatísticas do Github" src="https://github-readme-stats.vercel.app/api/?username=leanndrocabral&show_icons=true&include_all_commits=true&count_private=true&theme=monokai&hide_border=true"/></a>
+  <a href="#"><img alt="Estatísticas do Github de leanndrocabral" src="https://github-readme-stats.vercel.app/api/?username=leanndrocabral&show_icons=true&include_all_commits=true&count_private=true&theme=monokai&hide_border=true"/></a>
 
-  <a href="#"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leanndrocabral&layout=compact&theme=monokai&hide_border=true" /></a>
+  <a href="#"><img alt="Principais linguagens de leanndrocabral" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leanndrocabral&layout=compact&theme=monokai&hide_border=true" /></a>
   <br/>
 
   <b>Nota: </b>Os principais idiomas são apenas uma métrica dos idiomas em que meu código público consiste e não refletem a experiência ou a habilidade
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=leanndrocabral&theme=monokai&hide_border=true" /></a>
+  <a href="#"><img alt="Gráfico de atividades de leanndrocabral" src="https://github-readme-activity-graph.cyclic.app/graph/?username=leanndrocabral&theme=monokai&hide_border=true" /></a>
 
 </details>
 
