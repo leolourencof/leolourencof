@@ -102,9 +102,9 @@
 
   <h3>💻 Estatísticas de perfil do GitHub</h3>
 
-  <a href="#"><img alt="Estatísticas do Github de leanndrocabral" src="https://github-readme-stats.vercel.app/api/?username=leanndrocabral&show_icons=true&include_all_commits=true&count_private=true&theme=monokai&hide_border=true"/></a>
+  <a href="#"><img width="378" alt="Estatísticas do Github de leanndrocabral" src="https://github-readme-stats.vercel.app/api/?username=leanndrocabral&show_icons=true&include_all_commits=true&count_private=true&theme=monokai&hide_border=true"/></a>
 
-  <a href="#"><img alt="Principais linguagens de leanndrocabral" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leanndrocabral&layout=compact&theme=monokai&hide_border=true" /></a>
+  <a href="#"><img width="378" alt="Principais linguagens de leanndrocabral" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leanndrocabral&layout=compact&theme=monokai&hide_border=true" /></a>
   <br/>
 
   <b>Nota: </b>Os principais idiomas são apenas uma métrica dos idiomas em que meu código público consiste e não refletem a experiência ou a habilidade
