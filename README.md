@@ -7,16 +7,16 @@
 </p>
 
 <p align="center">
-  <a href="https://discordapp.com/users/1092588215564763219" target"_blank">
+  <a href="https://discordapp.com/users/1092588215564763219" target="_blank">
     <img alt="Discord" title="Me adicione no Discord" src="https://custom-icon-badges.demolab.com/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/leanndrocabral/" target"_blank">
+  <a href="https://www.linkedin.com/in/leanndrocabral/" target="_blank">
     <img alt="LinkedIn" title="Meu perfil do LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a> 
-  <a href="https://api.whatsapp.com/send/?phone=5512936181507" target"_blank">
+  <a href="https://api.whatsapp.com/send/?phone=5512936181507" target="_blank">
     <img alt="WhatsApp" title="Meu Whatsapp" src="https://custom-icon-badges.demolab.com/badge/-Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a> 
-   <a href="https://leanndrocabral.vercel.app/" target"_blank">
+   <a href="https://leanndrocabral.vercel.app/" target="_blank">
     <img alt="Portfólio" title="Meu Portfólio" src="https://custom-icon-badges.demolab.com/badge/-Portfolio-2C2C6C?style=for-the-badge&logo=link&logoColor=white"/>
   </a> 
 </p>
