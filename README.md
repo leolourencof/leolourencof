@@ -78,7 +78,7 @@
 
   <p>
       <a href="#"><img alt="Windows 11" src="https://img.shields.io/badge/Windows 11-0067B8.svg?logo=windows-11&logoColor=white"></a>
-      <a href="#"><img alt="Microsoft Edge" src="https://img.shields.io/badge/-Microsft Edge-057FD7?logo=microsoft-edge&logoColor=white"></a>
+      <a href="#"><img alt="Microsoft Edge" src="https://img.shields.io/badge/-Microsoft Edge-057FD7?logo=microsoft-edge&logoColor=white"></a>
       <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F14E32.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0066B8.svg?logo=visual-studio-code&logoColor=white"></a>
