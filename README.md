@@ -25,10 +25,9 @@
   <summary><h2>📘 Meus principais projetos</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/leanndrocabral/lista-de-contatos"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=leanndrocabral&repo=lista-de-contatos&theme=monokai&hide_border=true"></a>
-    <a href="https://github.com/leanndrocabral/shinmon-bot"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=leanndrocabral&repo=shinmon-bot&theme=monokai&hide_border=true"></a>
-    <a href="https://github.com/leanndrocabral/spotify-in-angular"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=leanndrocabral&repo=spotify-in-angular&theme=monokai&hide_border=true"></a>
-    <a href="https://github.com/leanndrocabral/react-kenzie-hub"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=leanndrocabral&repo=react-kenzie-hub&theme=monokai&hide_border=true"></a>
+    <a href="https://github.com/leanndrocabral/lista-de-contatos"><img width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=leanndrocabral&repo=lista-de-contatos&theme=monokai&hide_border=true"></a>
+    <a href="https://github.com/leanndrocabral/shinmon-bot"><img width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=leanndrocabral&repo=shinmon-bot&theme=monokai&hide_border=true"></a>
+    <a href="https://github.com/leanndrocabral/spotify-in-angular"><img width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=leanndrocabral&repo=spotify-in-angular&theme=monokai&hide_border=true"></a>
   </p>
 
   <a href="https://github.com/leanndrocabral?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Clique aqui para todos os repositórios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
