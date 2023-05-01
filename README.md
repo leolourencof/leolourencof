@@ -33,7 +33,7 @@
   <a href="https://github.com/leanndrocabral?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Clique aqui para todos os repositórios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
-<details open> 
+<details> 
   <summary><h2>🛠️ Minhas ferramentas favoritas</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -89,7 +89,7 @@
   </p>
 </details>
 
-<details open> 
+<details> 
   <summary><h2>📊 Estatísticas e atividades do Github</h2></summary>
 
   <h3>🔥 Estatísticas Streak</h3>
