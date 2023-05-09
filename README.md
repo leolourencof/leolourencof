@@ -26,7 +26,7 @@
 
   <p align="left">
     <a href="https://github.com/leanndrocabral/lista-de-contatos"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=leanndrocabral&repo=lista-de-contatos&theme=monokai&hide_border=true"></a>
-    <a href="https://github.com/leanndrocabral/shinmon-bot"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=leanndrocabral&repo=shinmon-bot&theme=monokai&hide_border=true"></a>
+    <a href="https://github.com/leanndrocabral/bee-bot"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=leanndrocabral&repo=bee-bot&theme=monokai&hide_border=true"></a>
     <a href="https://github.com/leanndrocabral/spotify-in-angular"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=leanndrocabral&repo=spotify-in-angular&theme=monokai&hide_border=true"></a>
   </p>
 
