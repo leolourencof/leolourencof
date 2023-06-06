@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/leanndrocabral/" target="_blank">
     <img alt="LinkedIn" title="Meu perfil do LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a> 
-  <a href="https://api.whatsapp.com/send/?phone=5512936181507" target="_blank">
+  <a href="https://api.whatsapp.com/send/?phone=5512996238196" target="_blank">
     <img alt="WhatsApp" title="Meu Whatsapp" src="https://custom-icon-badges.demolab.com/badge/-Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a> 
    <a href="https://leanndrocabral.vercel.app/" target="_blank">
@@ -27,7 +27,7 @@
   <p align="left">
     <a href="https://github.com/leanndrocabral/lista-de-contatos"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=leanndrocabral&repo=lista-de-contatos&theme=monokai&hide_border=true"></a>
     <a href="https://github.com/leanndrocabral/bee-bot"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=leanndrocabral&repo=bee-bot&theme=monokai&hide_border=true"></a>
-    <a href="https://github.com/leanndrocabral/spotify-in-angular"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=leanndrocabral&repo=spotify-in-angular&theme=monokai&hide_border=true"></a>
+    <a href="https://github.com/leanndrocabral/youtube-music"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=leanndrocabral&repo=spotify-in-angular&theme=monokai&hide_border=true"></a>
   </p>
 
   <a href="https://github.com/leanndrocabral?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Clique aqui para ver todos os repositórios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
