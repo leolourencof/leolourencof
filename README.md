@@ -30,7 +30,8 @@
     <a href="https://github.com/leanndrocabral/user-crud"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=leanndrocabral&repo=user-crud&theme=monokai&hide_border=true"></a>
   </p>
 
-  <a href="https://github.com/leanndrocabral?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Clique aqui para ver todos os repositórios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<a href="https://github.com/leanndrocabral?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Clique aqui para ver todos os repositórios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
 </details>
 
 <details> 
@@ -39,52 +40,54 @@
   <h3>👨‍💻 Linguagens de programação e marcação</h3>
 
   <p>
-      <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-F06529.svg?logo=html5&logoColor=white"></a>
-      <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-2965F1.svg?logo=css3&logoColor=white"></a>
-      <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F0DB4F.svg?logo=javascript&logoColor=black"></a>
-      <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-68A063.svg?logo=node.js&logoColor=white"></a>
-      <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-      <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-      <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-306998.svg?logo=python&logoColor=white"></a>
+      <img title="HTML5" src="https://custom-icon-badges.demolab.com/badge/-html-F06529?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img title="CSS3" src="https://custom-icon-badges.demolab.com/badge/-css-2965F1?style=for-the-badge&logo=css3&logoColor=white"/>
+      <img title="JavaScript" src="https://custom-icon-badges.demolab.com/badge/-javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img title="Node.js" src="https://custom-icon-badges.demolab.com/badge/-node.js-68A063?style=for-the-badge&logo=javascript&logoColor=white"/>
+       <img title="TypeScript" src="https://custom-icon-badges.demolab.com/badge/-typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+       <img title="SQL" src="https://custom-icon-badges.demolab.com/badge/-sql-025E8C?style=for-the-badge&logo=sql&logoColor=white"/>
+      <img title="Python" src="https://custom-icon-badges.demolab.com/badge/-python-306998?style=for-the-badge&logo=python&logoColor=white"/>
   </p>
 
   <h3>🧰 Frameworks e Bibliotecas</h3>
 
   <p>
-      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-16181D.svg?logo=react&logoColor=%2361DAFB"></a>
-      <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-FFFFFF.svg?logo=express&logoColor=black"></a>
-      <a href="#"><img alt="Django REST Framework" src="https://img.shields.io/badge/Djago REST Framework-A30000.svg?logo=django&logoColor=white"></a>
-      <a href="#"><img alt="Next.js" src="https://custom-icon-badges.demolab.com/badge/Next.js-000000.svg?logo=next.js"></a>
-      <a href="#"><img alt="Prisma" src="https://img.shields.io/badge/Prisma-1A202C.svg?logo=prisma&logoColor=white"></a>
-      <a href="#"><img alt="Chakra UI" src="https://custom-icon-badges.demolab.com/badge/Chakra UI-38B2AC.svg?logo=chakraui&logoColor=white"></a>
-      <a href="#"><img alt="Discord.js" src="https://custom-icon-badges.demolab.com/badge/Discord.js-5865F2.svg?logo=djs"></a>
-      <a href="#"><img alt="Angular" src="https://custom-icon-badges.demolab.com/badge/Angular-DD1B16.svg?logo=angular"></a>
+      <img title="React" src="https://custom-icon-badges.demolab.com/badge/-react-16181D?style=for-the-badge&logo=react&logoColor=white"/>
+      <img title="Express.js" src="https://custom-icon-badges.demolab.com/badge/-express.js-FFFFFF?style=for-the-badge&logo=express&logoColor=black"/>
+      <img title="Django REST Framework" src="https://custom-icon-badges.demolab.com/badge/-django rest framework-A30000?style=for-the-badge&logo=django&logoColor=white"/>
+      <img title="Next.js" src="https://custom-icon-badges.demolab.com/badge/-next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+      <img title="Prisma" src="https://custom-icon-badges.demolab.com/badge/-prisma-1A202C?style=for-the-badge&logo=prisma&logoColor=white"/>
+      <img title="Chakra UI" src="https://custom-icon-badges.demolab.com/badge/-chakra ui-38B2AC?style=for-the-badge&logo=chakraui&logoColor=white"/>
+      <img title="Discord.js" src="https://custom-icon-badges.demolab.com/badge/-discord.js-5865F2?style=for-the-badge&logo=djs&logoColor=white"/>
+      <img title="Angular" src="https://custom-icon-badges.demolab.com/badge/-angular-DD1B16?style=for-the-badge&logo=angular&logoColor=white"/>
+      <img title="Nest.js" src="https://custom-icon-badges.demolab.com/badge/-nest.js-EA2845?style=for-the-badge&logo=nestjs&logoColor=white"/>
+      <img title="Axios" src="https://custom-icon-badges.demolab.com/badge/-axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
   </p>
 
   <h3>🗄️ Bancos de Dados e Hospedagem em Nuvem</h3>
 
   <p> 
-      <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white"></a>
-      <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-044A64.svg?logo=sqlite&logoColor=white"></a>
-      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
-      <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-3B2F63.svg?logo=heroku&logoColor=white"></a>
-      <a href="#"><img alt="Render" src="https://img.shields.io/badge/Render-5AEDC5.svg?logo=render&logoColor=white"></a>
-      <a href="#"><img alt="Railway" src="https://img.shields.io/badge/Render-853BCE.svg?logo=railway&logoColor=white"></a>
+      <img title="PostgreSQL" src="https://custom-icon-badges.demolab.com/badge/-postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+      <img title="SQLite" src="https://custom-icon-badges.demolab.com/badge/-sqlite-044A64?style=for-the-badge&logo=sqlite&logoColor=white"/>
+      <img title="GitHub Pages" src="https://custom-icon-badges.demolab.com/badge/-github pages-222222?style=for-the-badge&logo=github&logoColor=white"/>
+      <img title="Vercel" src="https://custom-icon-badges.demolab.com/badge/-vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+      <img title="Heroku" src="https://custom-icon-badges.demolab.com/badge/-heroku-3B2F63?style=for-the-badge&logo=heroku&logoColor=white"/>
   </p>
 
   <h3>💻 Software e Ferramentas</h3>
 
   <p>
-      <a href="#"><img alt="Windows 11" src="https://img.shields.io/badge/Windows 11-0067B8.svg?logo=windows-11&logoColor=white"></a>
-      <a href="#"><img alt="Microsoft Edge" src="https://img.shields.io/badge/-Microsoft Edge-057FD7?logo=microsoft-edge&logoColor=white"></a>
-      <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
-      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F14E32.svg?logo=git&logoColor=white"></a>
-      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0066B8.svg?logo=visual-studio-code&logoColor=white"></a>
-      <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-F2740D?logo=stack-overflow&logoColor=white"></a>
-      <a href="#"><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white"></a>
-      <a href="#"><img alt="Dbeaver" src="https://custom-icon-badges.demolab.com/badge/-Dbeaver-372D29?logo=dbeaver-mono&logoColor=white"></a>
-      <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+      <img title="Windows" src="https://custom-icon-badges.demolab.com/badge/-windows-0067B8?style=for-the-badge&logo=windows&logoColor=white"/>
+      <img title="Linux" src="https://custom-icon-badges.demolab.com/badge/-linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=black"/>
+      <img title="Git" src="https://custom-icon-badges.demolab.com/badge/-git-F14E32?style=for-the-badge&logo=git&logoColor=white"/>
+      <img title="Stack Overflow" src="https://custom-icon-badges.demolab.com/badge/-stack overflow-F2740D?style=for-the-badge&logo=stack overflow&logoColor=white"/>
+      <img title="Microsoft Edge" src="https://custom-icon-badges.demolab.com/badge/-microsoft edge-057FD7?style=for-the-badge&logo=microsoftedge&logoColor=white"/>
+      <img title="Google Chrome" src="https://custom-icon-badges.demolab.com/badge/-google chrome-1967d2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+      <img title="DBeaver" src="https://custom-icon-badges.demolab.com/badge/-dbeaver-372D29?style=for-the-badge&logo=dbeaver&logoColor=white"/>
+      <img title="Visual Studio Code" src="https://custom-icon-badges.demolab.com/badge/-visual studio code-0066B8?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+      <img title="Insomnia" src="https://custom-icon-badges.demolab.com/badge/-insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white"/>
+       <img title="Postman" src="https://custom-icon-badges.demolab.com/badge/-postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+      <img title="Discord" src="https://custom-icon-badges.demolab.com/badge/-discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </p>
 </details>
 
@@ -101,14 +104,13 @@
 
   <h3>💻 Estatísticas de perfil do GitHub</h3>
 
-  <a href="#"><img width="378" alt="Estatísticas do Github de leanndrocabral" src="https://github-readme-stats.vercel.app/api/?username=leanndrocabral&show_icons=true&include_all_commits=true&count_private=true&theme=monokai&hide_border=true"/></a>
+<a href="#"><img width="378" alt="Estatísticas do Github de leanndrocabral" src="https://github-readme-stats.vercel.app/api/?username=leanndrocabral&show_icons=true&include_all_commits=true&count_private=true&theme=monokai&hide_border=true"/></a>
 
-  <a href="#"><img width="378" alt="Principais linguagens de leanndrocabral" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leanndrocabral&layout=compact&theme=monokai&hide_border=true" /></a>
-  <br/>
+<a href="#"><img width="378" alt="Principais linguagens de leanndrocabral" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leanndrocabral&layout=compact&theme=monokai&hide_border=true" /></a>
+<br/>
 
-  <b>Nota: </b>Os principais idiomas são apenas uma métrica dos idiomas em que meu código público consiste e não refletem a experiência ou a habilidade
+<b>Nota: </b>Os principais idiomas são apenas uma métrica dos idiomas em que meu código público consiste e não refletem a experiência ou a habilidade
 
-  <a href="#"><img alt="Gráfico de atividades de leanndrocabral" src="https://github-readme-activity-graph.vercel.app/graph?username=leanndrocabral&theme=monokai&hide_border=true" /></a>
+<a href="#"><img alt="Gráfico de atividades de leanndrocabral" src="https://github-readme-activity-graph.vercel.app/graph?username=leanndrocabral&theme=monokai&hide_border=true" /></a>
 
 </details>
-
