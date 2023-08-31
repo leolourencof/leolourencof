@@ -19,3 +19,4 @@ About me:
 ![TypeScript](https://custom-icon-badges.demolab.com/badge/-typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://custom-icon-badges.demolab.com/badge/-python-306998?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://custom-icon-badges.demolab.com/badge/-postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://custom-icon-badges.demolab.com/badge/-docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white)
