@@ -10,7 +10,7 @@ About me:
 
 ![HTML5](https://custom-icon-badges.demolab.com/badge/-html5-F06529?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://custom-icon-badges.demolab.com/badge/-css3-2965F1?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://custom-icon-badges.demolab.com/badge/-node.js-68A063?style=for-the-badge&logo=javascript&logoColor=white)
+![Node.js](https://custom-icon-badges.demolab.com/badge/-node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://custom-icon-badges.demolab.com/badge/-typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://custom-icon-badges.demolab.com/badge/-python-306998?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://custom-icon-badges.demolab.com/badge/-postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
