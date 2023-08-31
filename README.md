@@ -8,11 +8,6 @@ About me:
 
 <br>
 
-[![Discord](https://custom-icon-badges.demolab.com/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1142285871119347762)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonnerdf/)
-[![WhatsApp](https://custom-icon-badges.demolab.com/badge/-Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5512996238196)
-[![Portfólio](https://custom-icon-badges.demolab.com/badge/-Portfolio-2C2C6C?style=for-the-badge&logo=link&logoColor=white)](https://leanndrocabral.vercel.app/)
-
 ![HTML5](https://custom-icon-badges.demolab.com/badge/-html5-F06529?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://custom-icon-badges.demolab.com/badge/-css3-2965F1?style=for-the-badge&logo=css3&logoColor=white)
 ![Node.js](https://custom-icon-badges.demolab.com/badge/-node.js-68A063?style=for-the-badge&logo=javascript&logoColor=white)
