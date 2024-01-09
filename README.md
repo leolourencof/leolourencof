@@ -18,4 +18,4 @@ About me:
 
 <br>
 
-![spirited-away-chihiro](https://github.com/leolourencof/leolourencof/assets/105615180/c16f4370-9dd0-45cd-b22f-18cc31848089)
+![purple-themed-anime-train-gif](https://github.com/leolourencof/leolourencof/assets/105615180/86b8dcf8-a36a-40a1-8a94-99827714d547)
