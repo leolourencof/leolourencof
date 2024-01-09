@@ -18,4 +18,4 @@ About me:
 
 <br>
 
-![Texto Alternativo]([https://tenor.com/view/spirited-away-chihiro-kaonashi-train-gif-17317757](https://media1.tenor.com/m/R3AeOnZw_x8AAAAC/spirited-away-chihiro.gif)https://media1.tenor.com/m/R3AeOnZw_x8AAAAC/spirited-away-chihiro.gif)
+![spirited-away-chihiro](https://github.com/leolourencof/leolourencof/assets/105615180/c16f4370-9dd0-45cd-b22f-18cc31848089)
