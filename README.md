@@ -18,4 +18,4 @@ About me:
 
 <br>
 
-![purple-themed-anime-train-gif](https://github.com/leolourencof/leolourencof/assets/105615180/86b8dcf8-a36a-40a1-8a94-99827714d547)
+![pixel-city-art](https://github.com/leolourencof/leolourencof/assets/105615180/940ce1af-7841-4c9e-88af-9a32a9425395)
