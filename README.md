@@ -18,4 +18,4 @@ About me:
 
 <br>
 
-<img src="sua_imagem.jpg](https://github.com/leolourencof/leolourencof/assets/105615180/b533f023-544c-4baa-9210-bff67119498e)https://github.com/leolourencof/leolourencof/assets/105615180/b533f023-544c-4baa-9210-bff67119498e" alt="thumbnail" style="width:100%;"/>
+<img src="https://tenor.com/view/purple-themed-anime-train-gif-gif-19595401" alt="thumbnail" style="width:100%;"/>
