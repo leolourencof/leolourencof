@@ -18,4 +18,4 @@ About me:
 
 <br>
 
-![pixel-city-art](https://github.com/leolourencof/leolourencof/assets/105615180/940ce1af-7841-4c9e-88af-9a32a9425395)
+<img src="sua_imagem.jpg](https://github.com/leolourencof/leolourencof/assets/105615180/b533f023-544c-4baa-9210-bff67119498e)https://github.com/leolourencof/leolourencof/assets/105615180/b533f023-544c-4baa-9210-bff67119498e" alt="thumbnail" style="width:100%;"/>
