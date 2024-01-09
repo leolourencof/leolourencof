@@ -18,4 +18,4 @@ About me:
 
 <br>
 
-<img src="https://github.com/leolourencof/leolourencof/assets/105615180/ff0bd82a-e957-4a24-ba3b-cd24ca418d3f" alt="thumbnail" style="width:1000"/>
+<img src="https://github.com/leolourencof/leolourencof/assets/105615180/ff0bd82a-e957-4a24-ba3b-cd24ca418d3f" alt="thumbnail" width="600" />
