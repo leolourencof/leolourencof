@@ -8,7 +8,6 @@ About me:
 
 <br>
 
-
 ![Tailwind](https://custom-icon-badges.demolab.com/badge/-tailwind-0f172a?style=for-the-badge&logo=tailwind&logoColor=white)
 ![TypeScript](https://custom-icon-badges.demolab.com/badge/-typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://custom-icon-badges.demolab.com/badge/-node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white)
@@ -16,3 +15,7 @@ About me:
 ![PHP](https://custom-icon-badges.demolab.com/badge/-php-777BB3?style=for-the-badge&logo=php&logoColor=white)
 ![PostgreSQL](https://custom-icon-badges.demolab.com/badge/-postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://custom-icon-badges.demolab.com/badge/-docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white)
+
+<br>
+
+![Texto Alternativo](https://tenor.com/view/spirited-away-chihiro-kaonashi-train-gif-17317757)
