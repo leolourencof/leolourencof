@@ -2,7 +2,7 @@ About me:
 
 - 🔭 I’m currently working on ...Front-end and Back-end development
 - 📫 How to reach me: ...leonnardocabralf@gmail.com
-- ⚡ Curiosity: ...I’m a Full Stack developer, I love Start Lord, music, anime, movies, series and technology. I worked with automotive electronics and electronics as a hobby. I’m potterhead, griffindor house, I like Studio Ghibli anime.
+- ⚡ Curiosity: ...I'm a Full Stack developer, I love music, anime, movies, series, and technology. I'm a Harry Potter fan, Gryffindor house, and I like Studio Ghibli.
 
 <br>
 
