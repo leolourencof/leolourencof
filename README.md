@@ -1,6 +1,6 @@
 About me:
 
-- 🔭 I’m currently working on ...Front-end and Back-end development
+- 🔭 I have interest in ...Front-end and Back-end development
 - 📫 How to reach me: ...leonnardocabralf@gmail.com
 - ⚡ Curiosity: ...I'm a Full Stack developer, I love music, anime, movies, series, and technology. I'm a Harry Potter fan, Gryffindor house, and I like Studio Ghibli.
 
