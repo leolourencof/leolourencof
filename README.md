@@ -1,7 +1,7 @@
 About me:
 
 - 🔭 I have interest in ...Front-end and Back-end development
-- 📫 How to reach me: ...leonanrdo.contato1@gmail.com
+- 📫 How to reach me: ...leonnardo.contato1@gmail.com
 - ⚡ Curiosity: ...I'm a Full Stack developer, I love music, anime, movies, series, and technology. I'm a Harry Potter fan, Gryffindor house, and I like Studio Ghibli.
 
 <br>
